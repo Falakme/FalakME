@@ -9,7 +9,7 @@ _These terms of service ("Terms") apply to your access and use of the Falak webs
 
 ## Accepting these terms
 
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don’t agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing [support@falaknet.com](mailto:support@falaknet.com).
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don’t agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing [hello@falak.me](mailto:hello@falak.me).
 
 ## Changes to these Terms
 
@@ -110,4 +110,4 @@ Please let us know what you think of the Service, these Terms and, in general, F
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address [support@falaknet.com](mailto:support@falaknet.com)
+Questions or comments about the Service may be directed to us at the email address [hello@falak.me](mailto:hello@falak.me)

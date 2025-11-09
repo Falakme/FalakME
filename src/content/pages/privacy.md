@@ -38,7 +38,7 @@ Data is kept for the time necessary to provide the products or services requeste
 
 ## Rights of Data Subjects
 
-Data subject (customer) can always request Falak to allow access and correction, supplement or update of data. Subject to a reasonable request of a data subject, Falak will remove data pertaining to a data subject unless applicable laws impose a duty to retain data for certain time or identification, location and deletion of data imposes a disproportionate financial burden upon Falak. Any requests for access, correction or deletion of data should be directed to Falak by sending an email to [privacy@falaknet.com](mailto:privacy@falaknet.com).
+Data subject (customer) can always request Falak to allow access and correction, supplement or update of data. Subject to a reasonable request of a data subject, Falak will remove data pertaining to a data subject unless applicable laws impose a duty to retain data for certain time or identification, location and deletion of data imposes a disproportionate financial burden upon Falak. Any requests for access, correction or deletion of data should be directed to Falak by sending an email to [hello@falak.me](mailto:hello@falak.me).
 
 You may be aware that a European Union law, called the General Data Protection Regulation or "GDPR" gives certain rights to individuals in relation to their personal data. In order to enable you to exercise these rights with ease in relation to how Falak uses your personal data, we provide you with access to the following settings via your Account Settings page:
 
@@ -69,4 +69,4 @@ Falak may periodically update this policy. We encourage you to periodically revi
 
 ## Questions
 
-Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by emailing [privacy@falaknet.com](mailto:privacy@falaknet.com).
+Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by emailing [hello@falak.me](mailto:hello@falak.me).
